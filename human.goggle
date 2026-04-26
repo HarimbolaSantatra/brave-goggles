@@ -5,7 +5,7 @@
 ! issues: https://github.com/HarimbolaSantatra/brave-goggles/issues
 
 $boost=3,site=stackoverflow.com
-$boost=3,site=*.stackexchange.com
+$boost=3,site=stackexchange.com
 $boost=3,site=superuser.com
 $boost=3,site=serverfault.com
 $boost=2,site=reddit.com
