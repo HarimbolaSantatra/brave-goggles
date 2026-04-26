@@ -10,6 +10,9 @@ $boost=3,site=superuser.com
 $boost=3,site=serverfault.com
 $boost=2,site=reddit.com
 $boost=2,site=wikipedia.org
+$boost=2,site=mozilla.org
+$boost=1,site=ycombinator.com
+$boost=1,site=python.org
 $downrank=2,site=quora.com
 $discard,site=medium.com
 $discard,site=dev.to
