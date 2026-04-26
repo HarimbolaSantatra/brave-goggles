@@ -1,0 +1,15 @@
+! name: RealHuman
+! description: For content made by human, neither LLM nor SEO heavy copycat website
+! public: true
+! author: Santatra
+! issues: https://github.com/HarimbolaSantatra/brave-goggles/issues
+
+$boost=3,site=stackoverflow.com
+$boost=3,site=*.stackexchange.com
+$boost=3,site=superuser.com
+$boost=3,site=serverfault.com
+$boost=2,site=reddit.com
+$boost=2,site=wikipedia.org
+$downrank=2,site=quora.com
+$discard,site=medium.com
+$discard,site=dev.to
